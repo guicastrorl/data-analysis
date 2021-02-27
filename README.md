@@ -2,7 +2,7 @@
 Projeto proposto para a vaga de Cientista de Dados e Machine Learning da empresa [SMARKIO](https://smarkio.com.br).
 
 # Tecnologias Utilizadas
-* [Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png “Python Logo”)
+* [Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
   * Pandas
   * Numpy
   * Sklearn
