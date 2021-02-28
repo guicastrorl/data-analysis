@@ -11,8 +11,7 @@ Projeto proposto para a vaga de Cientista de Dados e Machine Learning da empresa
 * Jupyter Notebook
 
 # Execução
-Para visualizar o notebook<a href="http://stackoverflow.com" target="_blank">Go</a>
-, basta apenas abrir o arquivo ['data-analysis.ipynb'](https://github.com/guicastrorl/data-analysis/blob/main/data-analysis.ipynb) que se encontra nesse repositório, ele já está executado e pronto para visualização.<br>
+Para visualizar o notebook, basta apenas abrir o arquivo ['data-analysis.ipynb'](https://github.com/guicastrorl/data-analysis/blob/main/data-analysis.ipynb) que se encontra nesse repositório, ele já está executado e pronto para visualização.<br>
 Caso queira executar o notebook, clique [aqui](https://colab.research.google.com/drive/1MplHh9Cd5mVTXstdcw-nmi7VsrBt_tU2?usp=sharing) para que seja executado no Google Collab. Ao entrar no notebook, pressione as teclas 'Ctrl + F9'.<br>
 Para executar o seguinte repositório em sua máquina, é necessário seguir os passos:<br>
 * Instalar Python e pip;
