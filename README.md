@@ -23,4 +23,4 @@ Para executar o seguinte repositório em sua máquina, é necessário seguir os 
 > jupyter notebook
 * O jupyter notebook irá abrir seu navegador;
 * Ao abrir seu navegador, encontre a pasta que acabou de clonar;
-* Abra o arquivo 'data-analysis.ipynb', clique em 'Kernel' > 'Restart and Run All'.
+* Abra o arquivo 'data-analysis.ipynb', na barra de tarefas, clique em 'Kernel' > 'Restart and Run All'.
